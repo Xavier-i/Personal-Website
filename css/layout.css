@@ -69,6 +69,11 @@ properly.
 
 /* Reset */
 
+.row {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
 .flexslider a:active,
 .flexslider a:focus {
     outline: none;
